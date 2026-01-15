@@ -17,6 +17,16 @@ Seja bem-vindo(a) ao meu **GitHub 👩‍💻**, um espaço onde reúno tudo que
 
 ---
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dany-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dany-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dany-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dany-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+
 ## 📌 Destaques de Projetos
 
 Alguns dos repositórios que representam bem minha jornada até agora:
@@ -80,12 +90,22 @@ Foco em aplicação prática de desenvolvimento web, trabalho em equipe e uso do
 
 Atualmente, tenho experiência e estudos com:
 
-| 📌 Front-end | 📌 Lógica & Fundamentos | 📌 Ferramentas |
-|-------------|-------------------------|----------------|
-| HTML | Lógica de Programação | Git & GitHub |
-| CSS | JavaScript | Command Line |
-| JavaScript | React (em estudo) | VSCode |
-| Bootstrap/Básico | Curso práticas | Documentação |
+## 🛠️ Tecnologias & Ferramentas
+
+| 🌐 Front-end | ⚙️ Back-end | 🧠 Fundamentos | 🧰 Ferramentas |
+|--------------|-------------|----------------|----------------|
+| HTML | Node.js | Lógica de Programação | Git |
+| CSS | Express | JavaScript | GitHub |
+| JavaScript | Prisma ORM | Estruturas de Dados | VS Code |
+| React | PostgreSQL | APIs REST | Terminal / CLI |
+| Vite | JWT (auth) | Validação (Joi) | Insomnia / Postman |
+| TailwindCSS | Bcrypt (hash) | Boas práticas | Deploy (Vercel) |
+| React Router | Multer (uploads) | | |
+| Axios | Dotenv | | |
+| React Hook Form | | | |
+| Zod | | | |
+| EmailJS | | | |
+
 
 ---
 
