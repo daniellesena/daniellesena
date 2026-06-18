@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Danielle Sena
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**  
+🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e estudante de **Engenharia de Software**  
 💻 Apaixonada por programação, desenvolvimento web e tecnologia em geral.
 🚀 Em constante evolução e explorando novas habilidades todos os dias
 
